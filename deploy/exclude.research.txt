@@ -1,0 +1,6 @@
+.git
+.idea
+thinkphp/Uploads/
+wp-config.php
+wp-content/uploads/
+thinkphp/Application/Runtime/

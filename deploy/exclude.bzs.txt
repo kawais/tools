@@ -1,0 +1,4 @@
+.git
+*/download/*.*
+download/*.*
+heyad/

@@ -1,0 +1,12 @@
+.git
+.idea
+storage/debugbar/*.*
+storage/framework/cache/*.*
+storage/framework/sessions/*
+storage/framework/views/*.*
+storage/logs/*.*
+storage/userfiles/*
+storage/logstash/*
+bootstrap/cache
+wp-config.php
+wp-content/uploads/
